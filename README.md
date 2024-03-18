@@ -1,3 +1,2 @@
-# PacMan_Coronavirus
-
+# Pac-Man COVID-19 edition
 
